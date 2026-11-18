@@ -2,6 +2,8 @@
 
 把《蔚蓝》第五章（镜之寺庙）里追着人跑的 **Seeker** 换成一条蓝色大肥鱼。纯整活，DeepSeek + Seeker。
 
+![preview](docs/preview.png)
+
 ## 安装
 
 1. 装好 [Everest](https://everestapi.github.io/)（能玩 mod 就行，版本 ≥ 1.4.0）。

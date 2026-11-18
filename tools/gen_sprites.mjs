@@ -289,7 +289,7 @@ function drawFish(ctx, opt = {}) {
   ctx.translate(-50, -50)
   // vanilla seeker art is ~26x25 inside its 96x96 frame; keep the fish in the same ballpark
   ctx.translate(48, 48)
-  ctx.scale(0.7, 0.7)
+  ctx.scale(0.55, 0.55)
   ctx.translate(-48, -48)
 
   tail(ctx, tailAngle)
