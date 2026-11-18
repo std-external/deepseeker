@@ -10,7 +10,7 @@
   gutter: 18pt,
   align: horizon,
   [
-    #align(center, image("/var/cache/orange-tmp/deepseeker/preview/card/orig_seeker.png", width: 100pt))
+    #align(center, image("preview/card/orig_seeker.png", width: 100pt))
     #align(center)[#text(size: 9pt, weight: "bold")[改前] #text(size: 9pt, fill: luma(160))[原版 Seeker · 游戏内截图]]
   ],
   [
@@ -18,10 +18,10 @@
       columns: (1fr, 1fr),
       gutter: 4pt,
       align: center + horizon,
-      image("/var/cache/orange-tmp/deepseeker/preview/card/predator01.png", width: 62pt),
-      image("/var/cache/orange-tmp/deepseeker/preview/card/predator51.png", width: 62pt),
-      image("/var/cache/orange-tmp/deepseeker/preview/card/predator110.png", width: 62pt),
-      image("/var/cache/orange-tmp/deepseeker/preview/card/predator136.png", width: 62pt),
+      image("preview/card/predator01.png", width: 62pt),
+      image("preview/card/predator51.png", width: 62pt),
+      image("preview/card/predator110.png", width: 62pt),
+      image("preview/card/predator136.png", width: 62pt),
     )
     #align(center)[#text(size: 9pt, weight: "bold")[改后] #text(size: 9pt, fill: luma(160))[游动 / 咬人 / 被打晕 / 眩晕]]
   ],
