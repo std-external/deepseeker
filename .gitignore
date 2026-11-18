@@ -1,0 +1,6 @@
+node_modules/
+refs/
+preview/orig/
+preview/*.png
+dist/
+*.zip

@@ -1,0 +1,5 @@
+- Name: DeepSeeker
+  Version: 0.1.0
+  Dependencies:
+    - Name: Everest
+      Version: 1.4.0
